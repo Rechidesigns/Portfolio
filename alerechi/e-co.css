@@ -1,0 +1,312 @@
+html{
+    color:white;
+    max-width: 100%;
+} 
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    background: url('image-alex.jpg') no-repeat center center fixed;
+    background-size: cover;
+    max-width: 100%;
+
+
+}
+#size{
+    margin:o auto;
+    max-width:100%;
+
+}
+ A{
+    text-decoration: none;
+ } 
+ 
+
+ #iam{
+    padding: 0px 3px 0px 12px;
+
+
+ }
+#home{
+    height: 50px;
+}
+
+#alex{
+     font-family: NATS;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 100px;
+    text-align: left;
+    padding-left: 70px;
+
+
+}
+#contact{
+font-family: NATS;
+font-size: 34px;
+font-weight: 400;
+line-height: 71.86px;
+text-align: right;
+height: 72px;
+top: 24px;
+
+gap: 0px;
+opacity: 0px;
+color:#FFFFFF
+}
+#text{
+    font-family: Inter;
+font-size: 31px;
+font-weight: 500;
+line-height: 37.52px;
+text-align: left;
+color:#FFFFFF;
+width: 798px;
+height: 185px;
+top: 618px;
+left: 117px;
+gap: 0px;
+opacity: 0px;
+padding-left: 70px;
+
+}
+#cardr{
+    height: 457px;
+    top: 356px;
+    gap: 0px;
+    opacity: 0px;
+    padding-top: 100px;
+    padding-left: 50px;;
+
+
+}
+#Projects{
+    width: 112px;
+height: 33px;
+top: 356px;
+left: 1057px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 27px;
+font-weight: 800;
+text-align: left;
+color: #FFFFFF;
+
+}
+#book{
+    width: 309px;
+height: 60px;
+top: 420px;
+left: 1057px;
+gap: 0px;
+opacity: 0px;
+font-family: NATS;
+font-size: 30px;
+font-weight: 400;
+line-height: 105.67px;
+text-align: left;
+color:#50FCE8
+}
+#proper{
+    width: 564px;
+height: 60px;
+top: 515px;
+left: 1057px;
+gap: 0px;
+opacity: 0px;
+font-family: NATS;
+font-size: 30px;
+font-weight: 400;
+line-height: 105.67px;
+text-align: left;
+color:#50FCE8;
+}
+#job{
+    width: 564px;
+    height: 60px;
+    top: 515px;
+    left: 1057px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: NATS;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 105.67px;
+    text-align: left;
+    color:#50FCE8;
+}
+#e-{
+    width: 564px;
+    height: 60px;
+    top: 515px;
+    left: 1057px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: NATS;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 105.67px;
+    text-align: left;
+    color:#50FCE8;
+}
+
+   
+#png{
+    width: Hug (35px)px;
+height: Hug (49px)px;
+top: 976px;
+gap: 52px;
+opacity: 0px;
+height: 70px;
+opacity: 0px;
+padding-right: 27px;
+
+}
+#pnggg{
+    width:100%;
+    text-align: center;
+    
+   
+}
+#button{
+    height: 100px;
+    width: 200px;
+    padding:20px;
+    width: Hug (224px)px;
+    height: Hug (100px)px;
+    color: #FFFFFF;
+
+
+    
+}
+
+/* Default styles (common to all screen sizes) */
+
+/* Common styles for all devices */
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* Styles specific to phones */
+@media (max-width: 767px) {
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+    .phone-image {
+        width: 100px;
+        height: auto;
+    }
+    #alex{
+        
+        font-family: NATS;
+        font-size: 34px;
+        font-weight: 400;
+        line-height: 100px;
+        text-align: left;
+        padding-left: 70px;
+    
+       }
+   #size{
+       margin:o auto;
+       max-width:100%;
+   }
+   #contact{
+    font-family: NATS;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 71.86px;
+    text-align: right;
+    height: 72px;
+    
+    
+    gap: 0px;
+    opacity: 0px;
+    color:#FFFFFF
+    }
+    #text{
+        font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 35.56px;
+    text-align: left;
+    color:#FFFFFF;
+    width: 798px;
+    height: 185px;
+    top: 618px;
+    left: 117px;
+    gap: 0px;
+    opacity: 0px;
+    padding-left: 70px;
+    max-width: 400px;
+    }
+    #cardr{
+        height: 457px;
+        top: 356px;
+        gap: 0px;
+        opacity: 0px;
+        padding-top: 100px;
+        padding-left: 20px;;
+    
+    
+    }
+}
+
+/* Styles specific to tablets */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .container {
+        width: 80%;
+        padding: 20px;
+    }
+    #alex{
+        
+        font-family: NATS;
+        font-size: 80px;
+        font-weight: 400;
+        line-height: 100px;
+        text-align: left;
+        padding-left: 60px;
+    
+       }
+   #size{
+       margin:o auto;
+       max-width:100%;
+   }
+
+}
+
+@media (min-width: 1024px) {
+    .container {
+        width: 70%;
+        padding: 30px;
+    }
+     #alex{
+        
+     font-family: NATS;
+     font-size: 89px;
+     font-weight: 400;
+     line-height: 100px;
+     text-align: left;
+     padding-top: 100px;
+     padding-left: 80px;
+ 
+    }
+#size{
+    display: flex;
+    margin:o auto;
+    max-width:100%;
+}
+
+#cardr{
+    height: 400px;
+    top: 356px;
+    gap: 0px;
+    opacity: 0px;
+    padding-top: 100px;
+    padding-left: 200px;;
+
+
+}
+}
